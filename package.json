@@ -1,0 +1,23 @@
+{
+  "name": "system-version-plugin",
+  "version": "1.0.0",
+  "description": "webpack插件，维护系统版本号",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bnlwl/system-version-plugin.git"
+  },
+  "keywords": [
+    "version",
+    "system"
+  ],
+  "author": "bnlwl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnlwl/system-version-plugin/issues"
+  },
+  "homepage": "https://github.com/bnlwl/system-version-plugin#readme"
+}
